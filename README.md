@@ -67,10 +67,14 @@ Each of these datasets is essential for replicating the data cleaning pipeline.
 
 ## References
 
-* Iyer, L., Mani, A., & Mishra, P. (2012). The power of political voice: Women's political representation and crime in India. *American Economic Journal: Applied Economics*, 4(4), 165–193.
-* Brollo, F., & Troiano, U. (2016). What happens when a woman wins an election? Evidence from close races in Brazil. *Journal of Development Economics*, 122, 28–45.
-* Clots-Figueras, I. (2012). Are female leaders good for education? Evidence from India. *American Economic Journal: Applied Economics*, 4(1), 212–244.
-
+* Asher, Sam, Tobias Lunt, Ryu Matsuura, and Paul Novosad. 2020. Development Research at High Geographic Resolution: An Analysis of Night Lights, Firms, and Poverty in India Using the SHRUG Open Data Platform. September 2020.
+  
+* Banerjee, Abhijit, and Rohini Somanathan. 2007. “The Political Economy of Public Goods: Some Evidence from India.” Journal of Development Economics 82 (2): 287–314.
+  
+* Bhavnani, Rikhil R., and Alexander Lee. 2017. “Local Embeddedness and Bureaucratic Performance: Evidence from India.” Journal of Politics (Forthcoming).
+  
+* Iyer, Lakshmi, and Anandi Mani. 2012. “Traveling Agents: Political Change and Bureaucratic Turnover in India.” Review of Economics and Statistics 94 (3): 723–739.
+  
 ## License
 
 This repository is made freely available for research and academic use. If using this repository, please cite appropriately.
